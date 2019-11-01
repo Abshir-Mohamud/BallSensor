@@ -1,5 +1,5 @@
 ### October 31th, 2019 (Week 8)
-Breadboarding of circuit is completed and shown in class. Circuit is connected to Firebase realtime database which updates a pressure branch within my groups database. The current database just allows us to see if pressure is applied or not but later implementations will use the pressure sensor to see if balls are loaded to be fired and if no more balls are loaded to update the users app to display statistics 
+Breadboarding of circuit is completed and shown in class. Circuit is connected to Firebase realtime database which updates a pressure branch within my groups database. The current database just allows us to see if pressure is applied or not but later implementations will use the pressure sensor to see if balls are loaded to be fired and if no more balls are loaded after a certain amount of time to update the users app to display statistics and to end regiment.
 ![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/AbshirMohamud_PressureSensor.png)
 ![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/Firebase_NoPressure.PNG)
 ![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/Firebase_Pressure.PNG)
