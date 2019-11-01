@@ -15,7 +15,7 @@ Breadboard, Schematic, and PCB design are done for purchased sensor.
 [PCB design]
 ![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/HardwareScheme_pcb.png)
 
-[Fritzing File] (https://github.com/Abshir-Mohamud/BallSensor/blob/master/Documents/PressureSensorPCB_AbshirMohamud.fzz)
+[Fritzing File](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Documents/PressureSensorPCB_AbshirMohamud.fzz)
 
 Edit: Arduino Uno when using a WiFi module cannot connect to FireBase. Now using a NodeMCU
 [BreadBoard design]
@@ -25,7 +25,7 @@ Edit: Arduino Uno when using a WiFi module cannot connect to FireBase. Now using
 ![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/AbshirMohamud_PressureSensorV1_schem.png)
 
 [PCB design]
-[!Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/AbshirMohamud_PressureSensorV1_pcb.png)
+![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/AbshirMohamud_PressureSensorV1_pcb.png)
 
 [Fritzing File](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Documents/AbshirMohamud_PressureSensorV1.fzz)
 
