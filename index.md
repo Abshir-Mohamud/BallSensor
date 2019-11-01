@@ -1,9 +1,11 @@
 ### October 31th, 2019 (Week 8)
-Breadboarding of circuit is completed and shown in class.
+Breadboarding of circuit is completed and shown in class. Circuit is connected to Firebase realtime database which updates a pressure branch within my groups database. The current database just allows us to see if pressure is applied or not but later implementations will use the pressure sensor to see if balls are loaded to be fired and if no more balls are loaded to update the users app to display statistics 
 ![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/AbshirMohamud_PressureSensor.png)
+![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/Firebase_NoPressure.PNG)
+![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/Firebase_Pressure.PNG)
 
 ### October 17th, 2019 (Week 7)
-Breadboard, Schematic, and PCB design are done for purchased sensor.
+Breadboard, Schematic, and PCB design are done for purchased sensor. 
 [BreadBoard design]
 ![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/HardwareScheme_bb.png)
 
@@ -29,10 +31,11 @@ Edit: Arduino Uno when using a WiFi module cannot connect to FireBase. Now using
 
 ### October 10th, 2019 (Week 6)
 Acquisitions are shown in class.
+Edit: A NodeMCU was aquired during the Reading Week due to the Arduino Unos inability to connect to Firebase.
 
 ### October 3rd, 2019 (Week 5)
 Parts within budget are purchased on respective websites and all receipts are put into a single document.
-[Proof Of Purchase] (https://github.com/Abshir-Mohamud/BallSensor/blob/master/Documents/ProofOfPurchaseAbshirMohamud.pdf)
+[Proof Of Purchase](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Documents/ProofOfPurchaseAbshirMohamud.pdf)
 
 ### September 26th, 2019 (Week 4)
 Today, I have met with our collaborator for the project and have finalized the parts that will be used in the project. The following list contains those parts and include their pricing.
