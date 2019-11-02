@@ -1,31 +1,31 @@
 ### October 31th, 2019 (Week 8)
 Breadboarding of circuit is completed and shown in class. Circuit is connected to Firebase realtime database which updates a pressure branch within my groups database. The current database just allows us to see if pressure is applied or not but later implementations will use the pressure sensor to see if balls are loaded to be fired and if no more balls are loaded after a certain amount of time to update the users app to display statistics and to end regiment.
 ![Screenshot](Images/AbshirMohamud_PressureSensor.png)
-![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/Firebase_NoPressure.PNG)
-![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/Firebase_Pressure.PNG)
+![Screenshot](Images/Firebase_NoPressure.PNG)
+![Screenshot](Images/Firebase_Pressure.PNG)
 
 ### October 17th, 2019 (Week 7)
 Breadboard, Schematic, and PCB design are done for purchased sensor. 
 [BreadBoard design]
-![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/HardwareScheme_bb.png)
+![Screenshot](Images/HardwareScheme_bb.png)
 
 [Schematic design]
-![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/HardwareScheme_schem.png)
+![Screenshot](Images/HardwareScheme_schem.png)
 
 [PCB design]
-![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/HardwareScheme_pcb.png)
+![Screenshot](Images/HardwareScheme_pcb.png)
 
 [Fritzing File](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Documents/PressureSensorPCB_AbshirMohamud.fzz)
 
 Edit: Arduino Uno when using a WiFi module cannot connect to FireBase. Now using a NodeMCU
 [BreadBoard design]
-![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/AbshirMohamud_PressureSensorV1_bb.png)
+![Screenshot](Images/AbshirMohamud_PressureSensorV1_bb.png)
 
 [Schematic design]
-![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/AbshirMohamud_PressureSensorV1_schem.png)
+![Screenshot](Images/AbshirMohamud_PressureSensorV1_schem.png)
 
 [PCB design]
-![Screenshot](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Images/AbshirMohamud_PressureSensorV1_pcb.png)
+![Screenshot](Images/AbshirMohamud_PressureSensorV1_pcb.png)
 
 [Fritzing File](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Documents/AbshirMohamud_PressureSensorV1.fzz)
 
