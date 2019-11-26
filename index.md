@@ -4,9 +4,9 @@ PCB holes are not large enough for NodeMCU so resizing of the pcb holes are need
 EDIT 1: After resizing of the holes coppering around NodeMCU holes are removed. When attempting soldering unable to function reprinting needed.
 
 EDIT 2: Soldering of PCB complete pictures posted below.
-![Screenshot](Images/PCB1.JPG)
-![Screenshot](Images/PCB2.JPG)
-![Screenshot](Images/PCB3.JPG)
+![Screenshot](Images/PCB1.jpg)
+![Screenshot](Images/PCB2.jpg)
+![Screenshot](Images/PCB3.jpg)
 
 ### October 31st, 2019 (Week 8)
 Breadboarding of circuit is completed and shown in class. Circuit is connected to Firebase realtime database which updates a pressure branch within my groups database. The current database just allows us to see if pressure is applied or not but later implementations will use the pressure sensor to see if balls are loaded to be fired and if no more balls are loaded after a certain amount of time to update the users app to display statistics and to end regiment.
