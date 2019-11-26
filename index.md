@@ -1,5 +1,6 @@
 ### November 14th, 2019 (Week 10)
 PCB circuit pressure sensor is connected to a FireBase Realtime Database where true or false reading is set. Code for sensor is provided as well.
+
 ![Screenshot](Images/Firebase_NoPressure.PNG)
 ![Screenshot](Images/Firebase_Pressure.PNG)
 [Code]
@@ -10,6 +11,7 @@ PCB holes are not large enough for NodeMCU so resizing of the pcb holes are need
 EDIT 1: After resizing of the holes coppering around NodeMCU holes are removed. When attempting soldering unable to function reprinting needed.
 
 EDIT 2: Soldering of PCB complete pictures posted below.
+
 ![Screenshot](Images/PCB1.jpg)
 ![Screenshot](Images/PCB2.jpg)
 ![Screenshot](Images/PCB3.jpg)
