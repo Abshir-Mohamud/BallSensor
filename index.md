@@ -1,6 +1,12 @@
 ### November 7th, 2019 (Week 9)
-PCB that was printed did not contain holes lasge enough to fit the NodeMCU so I was unable to solder the sensor on at the given time. Reprint of the PCB arrived on Monday November 11th, 2019 and an update of the 
+PCB holes are not large enough for NodeMCU so resizing of the pcb holes are needed before continuing.
 
+EDIT 1: After resizing of the holes coppering around NodeMCU holes are removed. When attempting soldering unable to function reprinting needed.
+
+EDIT 2: Soldering of PCB complete pictures posted below.
+![Screenshot](Images/PCB1.JPG)
+![Screenshot](Images/PCB2.JPG)
+![Screenshot](Images/PCB3.JPG)
 
 ### October 31st, 2019 (Week 8)
 Breadboarding of circuit is completed and shown in class. Circuit is connected to Firebase realtime database which updates a pressure branch within my groups database. The current database just allows us to see if pressure is applied or not but later implementations will use the pressure sensor to see if balls are loaded to be fired and if no more balls are loaded after a certain amount of time to update the users app to display statistics and to end regiment.
