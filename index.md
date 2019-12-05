@@ -3,6 +3,10 @@ Class presentation powerpoint of all key points needed that were listed on six0f
 
 ### November 21st, 2019 (week 11)
 PCB casing created using laser cutting in prototype lab photos attahed below
+![Screenshot](Images/Enclosure1.jpg)
+![Screenshot](Images/Enclosure2.jpg)
+![Screenshot](Images/Enclosure3.jpg)
+![Screenshot](Images/Enclosure4.jpg)
 
 ### November 14th, 2019 (Week 10)
 PCB circuit pressure sensor is connected to a FireBase Realtime Database where true or false reading is set. Code for sensor is provided as well.
