@@ -1,6 +1,6 @@
 ### November 28th, 2019 (Week 12)
 Class presentation powerpoint of all key points needed that were listed on six0four added to it. Attached Below
-
+![Presentation](https://github.com/Abshir-Mohamud/BallSensor/blob/master/Documents/FSR01CE-ND.pptx)
 ### November 21st, 2019 (week 11)
 PCB casing created using laser cutting in prototype lab photos attahed below
 ![Screenshot](Images/Enclosure1.jpg)
@@ -13,7 +13,7 @@ PCB circuit pressure sensor is connected to a FireBase Realtime Database where t
 
 ![Screenshot](Images/Firebase_NoPressure.PNG)
 ![Screenshot](Images/Firebase_Pressure.PNG)
-[Code] (https://github.com/Abshir-Mohamud/BallSensor/blob/master/Documents/Force_Sensor.ino)
+![Code] (https://github.com/Abshir-Mohamud/BallSensor/blob/master/Documents/Force_Sensor.ino)
 
 ### November 7th, 2019 (Week 9)
 PCB holes are not large enough for NodeMCU so resizing of the pcb holes are needed before continuing.
