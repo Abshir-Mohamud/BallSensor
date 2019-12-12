@@ -10,7 +10,7 @@
 
 4.[Mechanical Assembly](https://github.com/Abshir-Mohamud/BallSensor#mechanical-assembly)
 
-5.[PCB / Soldering](https://github.com/Abshir-Mohamud/BallSensor#pcb-/-soldering)
+5.[PCB and Soldering](https://github.com/Abshir-Mohamud/BallSensor#pcb-and-soldering)
 
 6.[Power Up](https://github.com/Abshir-Mohamud/BallSensor#power-up)
 
@@ -45,7 +45,7 @@ A breadboarding diagram of the force sensor circuit created using the Fritzing p
 
 ![](Images/AbshirMohamud_PressureSensorV1_bb.png)
 
-## PCB / Soldering
+## PCB and Soldering
 PCB designed using Fritzing is shown below.
 
 ![](Images/AbshirMohamud_PressureSensorV1_pcb.png)
