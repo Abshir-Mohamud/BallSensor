@@ -1,5 +1,10 @@
 # Force Sensor Build Instructions
 
+![](Images/AbshirMohamud_SystemDiagram.png)
+
+## Introduction
+My name is Abshir Mohamud and the author for this FSR01CE-ND Force Sensing Resistor build instruction manual. The force sensor circuit shown within this document will later be used to create a Smart Ping Pong ball machine within the span of the 6th semester. Within this manual the cost, time commitment, circuit, PCB, soldering and code required for the creation of the circuit will be shown and explained. System diagram of circuit shown above.
+
 #### Table of Contents
 
 1.[Introduction](https://github.com/Abshir-Mohamud/BallSensor#introduction)
@@ -20,11 +25,6 @@
 
 9.[Reproducible](https://github.com/Abshir-Mohamud/BallSensor#reproducible)
 
-
-## Introduction
-My name is Abshir Mohamud and the author for this FSR01CE-ND Force Sensing Resistor build instruction manual. The force sensor circuit shown within this document will later be used to create a Smart Ping Pong ball machine within the span of the 6th semester. Within this manual the cost, time commitment, circuit, PCB, soldering and code required for the creation of the circuit will be shown and explained. System diagram of circuit shown below: 
-
-![](Images/AbshirMohamud_SystemDiagram.png)
 
 ## Bill of Materials 
 Below is a list of parts required for the creation of the force sensor circuit. The total price for all parts comes to 65.72 without shipping. Shipping is not included within this calculation because all parts are ordered on Amazon and with Amazon Prime shipping of parts would be free. This cost is the minimum required amount needed to create the circuit with no spares. Male and female header sockets are bought in packages for solder practice and together with the extra standoff screws will be used for cumulative project. (PCB and Acrylic Case are free due to in school facilities).
