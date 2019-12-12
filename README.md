@@ -18,7 +18,7 @@
 
 8.[Production Testing](https://github.com/Abshir-Mohamud/BallSensor#production-testing)
 
-9.[Reproducible?](https://github.com/Abshir-Mohamud/BallSensor#reproducible?)
+9.[Reproducible](https://github.com/Abshir-Mohamud/BallSensor#reproducible)
 
 
 ## Introduction
@@ -68,5 +68,5 @@ Software component can be broken down into two distinct parts for unit testing t
 
 ## Production Testing
 
-## Reproducible?
+## Reproducible
 Using the PCB design and code provided in the build instruction the reproducibility of the force sensor cirucit is possible 
