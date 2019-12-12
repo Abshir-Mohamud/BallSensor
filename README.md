@@ -10,7 +10,7 @@
 
 4.[Mechanical Assembly](https://github.com/Abshir-Mohamud/BallSensor#mechanical-assembly)
 
-5.[PCB and Soldering](https://github.com/Abshir-Mohamud/BallSensor#pcb-and-soldering)
+5.[PCB and Soldering](https://github.com/Abshir-Mohamud/BallSensor#PCB-and-soldering)
 
 6.[Power Up](https://github.com/Abshir-Mohamud/BallSensor#power-up)
 
