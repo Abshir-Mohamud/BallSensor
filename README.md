@@ -22,7 +22,7 @@
 
 
 ## Introduction
-My name is Abshir Mohamud and the author for this FSR01CE-ND Force Sensing Resistor build instruction manual. The force sensor circuit shown within this document will later be used to create a Smart Ping Pong ball machine within the span of the 6th semester. Within this manual the cost, time commitment, circuit, PCB and soldering needed for the creation of the circuit will be shown and explained. System diagram of circuit shown below: 
+My name is Abshir Mohamud and the author for this FSR01CE-ND Force Sensing Resistor build instruction manual. The force sensor circuit shown within this document will later be used to create a Smart Ping Pong ball machine within the span of the 6th semester. Within this manual the cost, time commitment, circuit, PCB, soldering and code required for the creation of the circuit will be shown and explained. System diagram of circuit shown below: 
 
 ![](Images/AbshirMohamud_SystemDiagram.png)
 
@@ -56,17 +56,18 @@ Completely Soldered PCB with parts attached to header pins shown below.
 ![](Images/PCB2.jpg)
 
 ## Power Up
-Code is run on Arduino IDE with outputs shown on both the Arduino’s Serial Monitor and Firebase Realtime Database. The serial monitor only displays an output when pressure is applied to the sensor while the database’s “Pressure” branch will stay false unless pressure is applied when it will then turn true. Images of both the serial monitor output and both states of the database are shown below. Link to code is also attached for testing here ([Code](Documents/Force_Sensor_ino))
+Code is run on Arduino IDE with outputs shown on both the Arduino’s Serial Monitor and Firebase Realtime Database. The serial monitor only displays an output when pressure is applied to the sensor, while the database’s “Pressure” branch will stay false unless pressure is applied when it will then turn true. Images of both the serial monitor output and both states of the database are shown below. Link to code is also attached for testing here ([Code](Documents/Force_Sensor_ino))
 ![](Images/AbshirMohamud_SerialMonitor.png)
 ![](Images/Firebase_Pressure.PNG)
 ![](Images/Firebase_NoPressure.PNG)
 
 ## Unit Testing
-Software component can be broken down into two distinct parts for unit testing the functionality of the pressure sensor and the ability to connect to the database and store data within it. Code given above will only work if an internet connection is established will then test the sensor for data. For the purpose of unit testing I’ve created a new file that will only test for the pressure applied to the sensor and give it a numerical value. An image of attached as well. Link to code is also attached for testing here ([Code](Documents/PressureSensorValues_AbshirMohamud.ino))
+Software component can be broken down into two distinct parts for unit testing the functionality of the pressure sensor and the ability to connect to the database and store data within it. Code given above will only work if an internet connection is established will then test the sensor for data. For the purpose of unit testing I’ve created a new file that will only test for the pressure applied to the sensor and give it a numerical value. An image of the output is attached as well. Link to code is also attached for testing here ([Code](Documents/PressureSensorValues_AbshirMohamud.ino))
 
 ![](Images/AbshirMohamud_UnitTestingPressure.PNG)
 
 ## Production Testing
+For mass-production of this project both the microcontroller and sensor should be changed to a smaller cheaper alternative to be able to save in cost. This is because the microcontroller although compact only uses 3 of the pins available. The force sensor used is also quite large because the original concept of this project was a tennis ball machine but was later changed due to size. Since a smaller force sensor can achieve the same purpose for the updated project the cost can be reduced as well.
 
 ## Reproducible
-Using the PCB design and code provided in the build instruction the reproducibility of the force sensor cirucit is possible 
+Using the PCB design and code provided in the build instruction the reproducibility of the force sensor cirucit is possible.
